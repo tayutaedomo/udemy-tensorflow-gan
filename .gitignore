@@ -126,3 +126,6 @@ dmypy.json
 
 venv/
 
+# Exculuded data directory
+MNIST_data/
+
