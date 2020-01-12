@@ -127,5 +127,5 @@ dmypy.json
 venv/
 
 # Exculuded data directory
-MNIST_data/
+GAN/MNIST_data/
 
