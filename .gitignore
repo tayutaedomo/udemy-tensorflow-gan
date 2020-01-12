@@ -128,4 +128,5 @@ venv/
 
 # Exculuded data directory
 GAN/MNIST_data/
+DCGAN/data/
 
